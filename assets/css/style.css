@@ -210,22 +210,16 @@ html, body {
 /*---------Anchor Links---------*/
 
 a:hover {
-    background: -webkit-linear-gradient(0deg, rgb(132, 0, 255), rgb(255, 15, 255)); 
-    background-clip: text;
-    -webkit-text-fill-color: transparent;
+    color:rgb(255, 15, 255);
 }
 
 .navbar-nav .nav-link.active {
-    background: -webkit-linear-gradient(0deg, rgb(255, 15, 255), rgb(255, 15, 255)) !important; 
-    background-clip: text !important;
-    -webkit-text-fill-color: transparent !important;
+    color:rgb(255, 15, 255);
     font-weight: bold;
 }
 
 .logotext {
-    background: -webkit-linear-gradient(0deg, rgb(255, 15, 255), rgb(255, 15, 255)) !important; 
-    background-clip: text !important;
-    -webkit-text-fill-color: transparent !important;
+    color:rgb(255, 15, 255);
 }
 
 /*-----------Media Queries-------*/
