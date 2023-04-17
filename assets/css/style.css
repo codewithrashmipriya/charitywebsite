@@ -210,11 +210,11 @@ html, body {
 /*---------Anchor Links---------*/
 
 a:hover {
-    color:rgb(255, 15, 255);
+    color:#ff0fff !important;
 }
 
 .navbar-nav .nav-link.active {
-    color:rgb(255, 15, 255);
+    color:#ff0fff !important;
     font-weight: bold;
 }
 
